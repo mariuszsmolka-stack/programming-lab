@@ -11,6 +11,12 @@ Materiały są podzielone na osobne ścieżki, ponieważ różne grupy uczniów 
 
 ---
 
+## Literatura
+
+- [Literatura i źródła wykorzystane przy tworzeniu kursu](literatura.md)
+
+---
+
 ## Ścieżki kursów
 
 ### C# Console
